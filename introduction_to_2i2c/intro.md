@@ -1,11 +1,22 @@
-# Welcome to your Jupyter Book
+# Using 2i2c
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+The 2i2c service is a set of computational tools made available through a partnership of the Pacific Institute for the Mathematical Science \([https://www.pims.math.ca](https://www.pims.math.ca)\), Compute Canada \([https://www.computecanada.ca](https://www.computecanada.ca)\) and Cybera \([http://www.cybera.ca/](http://www.cybera.ca/)\).
 
-Check out the content pages bundled with this sample book to see more.
+2i2c stands for The International Interactive Computing Collaboration.
 
-```{tableofcontents}
+![syzygy-image](/img/syzygy.jpg)
+(Image credit: [European Southern Observatory](https://commons.wikimedia.org/wiki/File:Three_Planets_Dance_Over_La_Silla.jpg))
+
+
+This eBook is a brief introduction on how to use these computing tools.
+
+Code samples for the book can be launched on Binder. Click here:  
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org:/repo/mlamoureux/usingsyzygy)
+
+If you have a Jupyter server \(such as XXX.syzygy.ca\) you may clone a github repository of all the code in this book using this command from your Unix/bash shell:
+
 ```
+git clone https://github.com/pimsmath/syzygy-intro
+```
+
+![Pims logo](https://media.pims.math.ca/logos/webhorizfulllarge.png)
