@@ -1,4 +1,4 @@
-# Using 2i2c
+# Introdcution to 2i2c
 
 The 2i2c service is a set of computational tools made available through a partnership of the Pacific Institute for the Mathematical Science \([https://www.pims.math.ca](https://www.pims.math.ca)\), Compute Canada \([https://www.computecanada.ca](https://www.computecanada.ca)\) and Cybera \([http://www.cybera.ca/](http://www.cybera.ca/)\).
 
