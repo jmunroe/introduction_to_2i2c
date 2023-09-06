@@ -20,7 +20,7 @@ to "Start My Server."
 
 The Hub is a page that lists all your files and folders. It looks like this:
 
-![Hub image](/img/assets/Hub.png)
+![Hub image](../images/Hub.png)
 
 As you can see, the Hub looks a lot like the list of files and folders you would
 see in the Finder on MacOS, or in the File Explorer in Windows. 
@@ -90,7 +90,7 @@ create a new one with the "New" button. You need to pick a computing language
 
 The Notebook will look something like this. 
 
-![png](/img/assets/Notebook.png)
+![png](../images/Notebook.png)
 
 At the top is the name of the notebook (in this case, "Untitled"). You can click
 on that name and edit it to whatever you like. 
